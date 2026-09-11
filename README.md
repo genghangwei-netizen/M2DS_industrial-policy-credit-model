@@ -25,7 +25,7 @@ The project investigates how industrial-policy information, supply-chain structu
 
 Policy records and industry-level R&D indicators are based on public information.
 
-The firm-level financial panel and supplier-customer network used in the experiments are synthetic and are intended for methodological validation rather than for estimating real-world bank portfolio performance.
+The firm-level financial panel and supplier-customer network used in the experiments are synthetic, calibrated against publicly available financial reports of listed companies. They are intended for methodological validation rather than for estimating real-world bank portfolio performance.
 
 ## Disclaimer
 
